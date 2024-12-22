@@ -20,7 +20,7 @@ The following combinations are offered (each can be selected individiually):
 
 This means that a high-level Cleric-Mage can end up with up to 8 additional scrolls if all components are installed.
 
-__COMPATIBILITY:__ These components should be installed after all mods which might buff spellcaster AI (SCS). These components functionally overlap with SCS's "Wider spell scrolls" but they can be installed together. These components __need__ to be installed after [Abel's Nonrandom Treasures](https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures) mod on IWDEE.
+__COMPATIBILITY:__ These components should be installed after all mods which might buff spellcaster AI (SCS). These components functionally overlap with SCS's "Wider spell scrolls" but they can be installed together. These components __need__ to be installed after [Abel's Nonrandom Treasures](https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures) mod on IWDEE. Also, these components will never roll the "Summon Cow" spell using the vanilla scrolls, but still are able to roll it via mods adding their own scrolls, like [Shards of Ice](https://www.gibberlings3.net/mods/other/shards).
 
 ## Components 3X Replace nondroppable magic arrow clones with their droppable counterparts
 
